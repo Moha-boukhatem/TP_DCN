@@ -10,5 +10,5 @@ git clone https://github.com/Moha-boukhatem/TP_DCN.git
 Execute the command line in your terminal 
 
 ```
-cd src && javac TP1.java && java TP1.java
+cd TP_DCN/src && javac TP1.java && java TP1.java
 ```
