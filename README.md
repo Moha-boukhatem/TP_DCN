@@ -1,5 +1,5 @@
 # TP_DCN
-A quick project with some GUI for my second master degree
+A quick project with some GUI
 # how to use it
 
 Clone it 
